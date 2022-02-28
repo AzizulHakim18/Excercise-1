@@ -1,6 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
 h1{
     font-size: 50px;
 }
 .orange{
     color: orangered;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 10%;
+}
+.link-box{
+    text-decoration: none;
+    background-image: linear-gradient(red,crimson);
+    color: whitesmoke;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top-page{
+            background-image: url(shapes/Frame\ 58.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
 }
