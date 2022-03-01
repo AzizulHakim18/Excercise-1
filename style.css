@@ -29,3 +29,23 @@ section{
             background-repeat: no-repeat;
             background-size: cover;
 }
+.half-width-middle{
+    width: 50%;
+    padding-left: 200px;
+    padding-right: 300px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.middle{
+    background-image: url(shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.recipie-title{
+    width: 33.33%;
+    padding-left: 10%;
+    padding-right: 5%;
+}
+.recipie-title img{
+    width: 100%;
+}
